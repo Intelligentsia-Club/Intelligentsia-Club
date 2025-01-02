@@ -21,7 +21,6 @@ This repository is a hub for:
 ```
 Intelligentsia-Club/
 ├── Projects/       # Innovative AI/ML projects
-├── Workshops/      # Code and materials from workshops
 ├── Resources/      # Learning materials and guides
 └── README.md       # About this repository
 ```
