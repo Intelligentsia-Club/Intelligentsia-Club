@@ -43,9 +43,4 @@ We welcome contributions from the community! Here's how you can get involved:
 
 ---
 
-## 📜 License
-This repository is licensed under the [MIT License](LICENSE).
-
----
-
 Let’s innovate together! 🌟
