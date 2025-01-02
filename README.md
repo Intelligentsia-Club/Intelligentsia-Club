@@ -17,16 +17,6 @@ This repository is a hub for:
 
 ---
 
-## 📂 Repository Structure
-```
-Intelligentsia-Club/
-├── Projects/       # Innovative AI/ML projects
-├── Resources/      # Learning materials and guides
-└── README.md       # About this repository
-```
-
----
-
 ## 🤝 How to Contribute
 We welcome contributions from the community! Here's how you can get involved:
 1. Fork the repository.
